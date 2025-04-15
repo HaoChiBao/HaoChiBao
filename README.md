@@ -13,7 +13,7 @@
 
 ### 🧠 Featured Project: Nodes
 <p align="center">
-  <img src="https://www.thenodes.ca/banner.png" height="600" />
+  <img src="https://www.thenodes.ca/banner.png" height="400" />
 </p>
 
 **[Nodes](https://thenodes.ca)** is a Chrome Extension that helps you land internships faster:

@@ -1,9 +1,7 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=8A2BE2&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey+I'm+Hao+%F0%9F%91%8B;I+build+Chrome+Extensions+that+do+cool+stuff;Click.+Email.+Internship." />
-</h1>
+# This is James Yang ⁉
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/106619425?v=4" width="150" style="border-radius: 50%" />
+  <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7urtbscsiphnbwyu2mrvzats/bafkreicuj2xaj2ebsyas3h2mzgee7g4d2ocztkn5k6oufr5wjziuzph7ye@jpeg" width="300" style="border-radius: 50%" />
 </p>
 
 <p align="center">
@@ -14,9 +12,8 @@
 ---
 
 ### 🧠 Featured Project: Nodes
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HaoChiBao/Nodes/main/public/nodes-logo.png" height="100" />
+  <img src="https://www.thenodes.ca/banner.png" height="600" />
 </p>
 
 **[Nodes](https://thenodes.ca)** is a Chrome Extension that helps you land internships faster:
@@ -38,11 +35,10 @@
 
 ---
 
-### 💻 Tech I Use
+### ⚡ Fun Fact
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,chrome,firebase,vercel,vite,py,nodejs,figma" />
-</p>
+> i slap volleyballs during my free time
+> i play chess (add me: [here] (https://www.chess.com/member/haochibao))
 
 ---
 
@@ -55,11 +51,3 @@
 </p>
 
 ---
-
-### ⚡ Fun Fact
-
-> i slap volleyballs during my free time
-> i play chess (add me: [here] (https://www.chess.com/member/haochibao))
-
----
-

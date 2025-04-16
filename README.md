@@ -1,4 +1,4 @@
-# This is James Yang ⁉
+# This is James Yang
 
 <p align="center">
   <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7urtbscsiphnbwyu2mrvzats/bafkreicuj2xaj2ebsyas3h2mzgee7g4d2ocztkn5k6oufr5wjziuzph7ye@jpeg" width="300" style="border-radius: 50%" />

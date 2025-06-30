@@ -6,7 +6,6 @@
 
 <p align="center">
   🧩 Browser extensions dev | ⚡ Chronic Builder <br>
-  🏆 <strong>20x Hackathon Winner</strong> | Devpost veteran
 </p>
 
 ---

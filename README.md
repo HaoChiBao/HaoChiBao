@@ -33,7 +33,7 @@ A dumbass in motion achieves more than a genius at rest.
 - [CostMCP](https://github.com/HaoChiBao/costmcp) is a ledger for what an AI project spends. Agents read the same numbers over MCP.
 - [The Most Realistic Game](https://github.com/HaoChiBao/the-most-realistic-game) is a terminal adventure. Every run boots a new world, and the world keeps moving if you don't.
 - [YouTube Uploader](https://github.com/HaoChiBao/youtube-uploader) uploads rendered videos, schedules them, and handles more than one channel.
-- [Volleyball AI](https://github.com/HaoChiBao/volleyballai) is offline analysis for a court video: players, the ball, the score, and a 3D court.
+- [Volleyball AI](https://github.com/HaoChiBao/volleyballai) is aimed at offline court video: players, the ball, the score, and a 3D court.
 - [Nodes](https://yangjames.com/case/nodes) finds emails already on the page. 1,000+ installs, 17,000+ profiles indexed.
 - [EmbedGPT](https://github.com/HaoChiBao/EmbedGPT) puts ChatGPT next to the page you're on.
 - [BestBuddy](https://github.com/HaoChiBao/bestBuddy) is a mochi that lives on the desktop. You can pick it up and throw it.
